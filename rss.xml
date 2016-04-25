@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[360eventsAustralia]]></title>
         <description><![CDATA[360eventsAustralia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/360eventsaustralia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 12:23:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 12:45:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/360eventsaustralia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tamanuiterā and Marama]]></title>
+            <description><![CDATA[<article><h1>Tamanuiterā and Marama</h1><p>The dawn of a new day: Tamanuiterā and Marama</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4140f19b6c5076115548bc9bf76b8fcd3ee114cd.jpg"></article>]]></description>
+            <link>https://youtu.be/ZJ8P5N6gWew</link>
+            <guid isPermaLink="false">6b10128a-5e26-4617-b7e1-748f8d0afe71</guid>
+            <pubDate>Mon, 25 Apr 2016 12:45:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc463754-bdb0-40cd-9ca8-c84d064aa1aa.png">]]></description>
-            <link>undefineddd5c97a7-facc-4ce6-a965-77b59119793d/index.html</link>
+            <link>https://thegrid.ai/360eventsaustralia/dd5c97a7-facc-4ce6-a965-77b59119793d/index.html</link>
             <guid isPermaLink="false">dd5c97a7-facc-4ce6-a965-77b59119793d</guid>
             <pubDate>Mon, 25 Apr 2016 12:23:10 GMT</pubDate>
         </item>
